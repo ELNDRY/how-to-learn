@@ -1,12 +1,8 @@
 .page {
   min-width: 1100px;
-  /* мы ещё не умеем делать мобильную версию сайта, */
-  /* поэтому выше установлена минимальная ширина страницы */
   max-width: 1600px;
-  /* выше установили ограничение по максимальной ширине */
-  min-width: 756px;
+  min-height: 756px;
   margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -310,7 +306,6 @@
   font-size: 18px;
   font-weight: normal;
   text-align: left;
-  margin-bottom: 18px;
   margin-bottom: 18px;
 }
 
