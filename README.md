@@ -13,4 +13,4 @@ The project is organized according to the classical scheme of the file structure
 
 * Example of using the iframe tag to insert a video (from youtube). With the ability to control playback. As HTML:video, iframe, embed, YouTube API. 
 
-Посмотреть проект можно [:link:ссылке](https://github.com/ELNDRY/how-to-learn/settings/pages)
+Посмотреть проект можно [:link:ссылке](https://elndry.github.io/how-to-learn/)
