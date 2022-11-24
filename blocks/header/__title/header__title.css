@@ -1,0 +1,10 @@
+.header__title {
+  width: 730px;
+  margin: 0 0 0 64px;
+  align-self: center;
+  /* Высота строки 96px, размер шрифта 102px, начертание шрифта — 600 */
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600;
+  z-index: 3;
+}
